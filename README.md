@@ -1,7 +1,7 @@
 # Spam-Message-Classification
 <img src ="https://github.com/user-attachments/assets/5bc49dd2-8cf9-4b55-91c4-88a2377fa469" width=25% height=25%>
 
-### Project Overview: Spam Message Classification
+### Project Overview:
 
 **Objective:**  
 The primary goal of the Spam Message Classification project was to develop an efficient and accurate system to identify and classify spam messages using Natural Language Processing (NLP) techniques. By utilizing machine learning models, specifically Random Forest and Support Vector Machine (SVM), the project aimed to enhance the user experience by filtering out unwanted messages.
